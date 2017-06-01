@@ -29,6 +29,7 @@ is_production: true
 nhw_site: "https://neurohackweek.github.io"
 nhw_github: "https://github.com/neurohackweek"
 swc_site: "https://software-carpentry.org"
+dc_site: "http://datacarpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
